@@ -38,9 +38,9 @@ I’m someone who values growth and happiness over fixed goals. I don’t aim fo
 
 ## Projects  
 
-- 📂 Project Name 1 — [🔗 Link if available]()  
-- 📂 Project Name 2 — [🔗 Link if available]()  
-- 📂 Project Name 3 — [🔗 Link if available]()  
+- 📂 Project Name 1 — [🔗]()  
+- 📂 Project Name 2 — [🔗]()  
+- 📂 Project Name 3 — [🔗]()  
 
 ---
 
