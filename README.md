@@ -3,7 +3,7 @@
 ---
 
 ## 🏠 GitHub Page  
-- [Click Here](https://Phouish.github.io/7OOP-Projects/)  
+- [Click Here](https://pavila24-0509.github.io/7OOP-Projects/)  
 
 ---
 
