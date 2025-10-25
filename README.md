@@ -3,7 +3,7 @@
 ---
 
 ## 🏠 GitHub Page  
-- [Click Here](https://princeavila.github.io/7OOP-Projects/)  
+- [Click Here](https://Phouish.github.io/7OOP-Projects/)  
 
 ---
 
